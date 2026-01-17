@@ -1,6 +1,6 @@
 name: "Playwright Remocon"
 slug: "playwright_remocon"
-version: "1.0.0"
+version: "1.0.1"
 description: "Scarica automaticamente il file Excel da Remocon usando Playwright"
 
 arch:
