@@ -11,8 +11,8 @@ from playwright.sync_api import sync_playwright
 from datetime import datetime
 import os
 
-USERNAME = "frigerio.sergio@gmail.com"
-PASSWORD = "7T3J#.w#GQZ?8kZ"
+USERNAME = ""
+PASSWORD = ""
 
 URL = "https://www.remocon-net.remotethermo.com/R2/Plant/Index/10521C70DB5C"
 
