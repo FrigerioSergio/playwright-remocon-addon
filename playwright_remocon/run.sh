@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/with-contenv bash
 set -e
 
-python3 /app/script.py
+exec python3 /app/script.py
